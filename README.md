@@ -11,6 +11,36 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YbBXWBQgdxsg4lM_tFzdYtDgZJK9vxbA/view?usp=sharing](https://drive.google.com/file/d/1YbBXWBQgdxsg4lM_tFzdYtDgZJK9vxbA/view?usp=sharing)
 
+
+```javascript
+const myStack = {
+  code: ["Javascript", "HTML", "CSS"],
+  technologies: [
+    {
+      frontEnd: {
+        javascript: ["React", "Redux", "Redux/Toolkit", "Persist"],
+        css: ["Styled Components", "CSS Modules", "SASS", "Bootstrap"],
+      },
+    },
+    {
+      backEnd: {
+        javascript: ["NodeJS", "Express", "Sequelize", "Mongoose"],
+      },
+      databases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
+    },
+    {
+      Others: {
+        authentication: ["Json Web TOken"],
+        prototyping: ["Figma"],
+        library: ["Material UI"],
+      },
+    },
+  ],
+  currentStatus: ["✨Looking for a Job✨"],
+  locationPreferences: ["✨World✨"],
+};
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/heredialucasfran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/heredialucasfran/" height="30" width="40" /></a>
