@@ -14,7 +14,7 @@
 
 ```javascript
 const myStack = {
-  code: ["Javascript", "HTML", "CSS"],
+  code: ["Javascript", "HTML5", "CSS3"],
   technologies: [
     {
       frontEnd: {
