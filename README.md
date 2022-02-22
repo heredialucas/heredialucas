@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TrainingApp](https://github.com/ValentinMarchessi/training-app-client)
 
-- 👯 I’m looking to collaborate on [EventsApp](https://github.com/ValentinMarchessi/training-app-client)
+- 👯 I’m currently working on on [EventsApp](https://github.com/ValentinMarchessi/training-app-client)
 
 - 👨‍💻 All of my projects are available at [https://heredialucas.github.io/Portafolio/](https://heredialucas.github.io/Portafolio/)
 
