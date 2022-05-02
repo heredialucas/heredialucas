@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [BookFlix](https://books-app-front-4l1ypiccv-7fernando.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://heredialucas.github.io/Portafolio/](https://heredialucas.github.io/Portafolio/)
+- 👨‍💻 All of my projects are available at [https://heredialucas.github.io/PortafolioNew/](https://heredialucas.github.io/PortafolioNew/)
 
-- 📫 How to reach me **heredialucasfac22@hotmail.com**
+- 📫 How to reach me **heredialucasfac22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YbBXWBQgdxsg4lM_tFzdYtDgZJK9vxbA/view?usp=sharing](https://drive.google.com/file/d/1YbBXWBQgdxsg4lM_tFzdYtDgZJK9vxbA/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pKD9tgxVTgMro7b28-fobMN6N9gVHJf0/view?usp=sharing](https://drive.google.com/file/d/1YbBXWBQgdxsg4lM_tFzdYtDgZJK9vxbA/view?usp=sharing)
 
 
 ```javascript
