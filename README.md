@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heredia Lucas</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [TrainingApp](https://github.com/ValentinMarchessi/training-app-client)
-
-- 👯 I’m currently working on on [EventsApp](https://github.com/ValentinMarchessi/training-app-client)
+- 🔭 I’m currently working on [BookFlix](https://books-app-front-4l1ypiccv-7fernando.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://heredialucas.github.io/Portafolio/](https://heredialucas.github.io/Portafolio/)
 
