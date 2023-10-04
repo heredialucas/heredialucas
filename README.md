@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heredia Lucas</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on Kimche
+- 🔭 I’m currently looking for new opportunities
 
 - 👨‍💻 All of my projects are available at [https://heredialucas.github.io/PortafolioNew/](https://heredialucas.github.io/PortafolioNew/)
 
@@ -16,13 +16,13 @@ const myStack = {
   technologies: [
     {
       frontEnd: {
-        javascript: ["React", "Redux", "Redux/Toolkit", "Persist"],
+        javascript: ["React", "Redux", "Redux/Toolkit", "Zustand"],
         css: ["Styled Components", "CSS Modules", "SASS", "Bootstrap"],
       },
     },
     {
       backEnd: {
-        javascript: ["NodeJS", "Express", "Sequelize", "Mongoose"],
+        javascript: ["NodeJS", "Express", "Sequelize", "Mongoose", "GraphQL"],
       },
       databases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
     },
