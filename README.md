@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for new opportunities
 
-- 👨‍💻 All of my projects are available at [https://heredialucas.github.io/PortafolioNew/](https://heredialucas.github.io/PortafolioNew/)
+- 👨‍💻 All of my projects are available at 
 
 - 📫 How to reach me **heredialucasfac22@gmail.com**
 
@@ -12,11 +12,11 @@
 
 ```javascript
 const myStack = {
-  code: ["Javascript", "HTML5", "CSS3"],
+  code: ["JavaScript", "HTML5", "CSS3", "TypeScript", "Python"],
   technologies: [
     {
       frontEnd: {
-        javascript: ["React", "Redux", "Redux/Toolkit", "Zustand"],
+        javascript: ["React", "Next.js", "Redux", "GraphQL"],
         css: ["Styled Components", "CSS Modules", "SASS", "Bootstrap"],
       },
     },
@@ -27,15 +27,17 @@ const myStack = {
       databases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
     },
     {
-      Others: {
-        authentication: ["Json Web TOken"],
-        prototyping: ["Figma"],
-        library: ["Material UI"],
+      devOps: ["Docker", "GitLab", "GitHub", "CI/CD", "Linux"],
+    },
+    {
+      tools: {
+        testing: ["Postman", "RESTful APIs", "Web APIs"],
+        documentation: ["Confluence", "Figma"],
       },
     },
   ],
   currentStatus: ["✨Looking for a Job✨"],
-  locationPreferences: ["✨World✨"],
+  locationPreferences: ["✨Global✨"],
 };
 ```
 
