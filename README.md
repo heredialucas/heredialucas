@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **heredialucasfac22@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1HZbcY0AVaq6cNOz6lIion3jTH7TYg9hL/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HZbcY0AVaq6cNOz6lIion3jTH7TYg9hL/view?usp=drive_link)
 
 
 ```javascript
