@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently looking for new opportunities
 
-- 👨‍💻 All of my projects are available at [Web site](https://lucasdev-three.vercel.app/home)
+- 👨‍💻 All of my projects are available at [Web site](https://blogui.me/hlucas)
 
 - 📫 How to reach me **heredialucasfac22@gmail.com**
 
