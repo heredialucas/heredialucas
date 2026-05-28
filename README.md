@@ -1,46 +1,99 @@
-<h1 align="center">Hi 👋, I'm Heredia Lucas</h1>
+# Lucas Heredia
 
-- 🔭 I’m currently looking for new opportunities
+Full Stack Developer focused on scalable systems, AI integrations, automation, and modern web applications.
 
-- 👨‍💻 All of my projects are available at [Web site](https://blogui.me/hlucas)
+🌐 Portfolio: :contentReference[oaicite:0]{index=0}  
+💼 LinkedIn: [Tu LinkedIn]  
+📫 Contact: [Tu Email]
 
-- 📫 How to reach me **heredialucasfac22@gmail.com**
+---
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HZbcY0AVaq6cNOz6lIion3jTH7TYg9hL/view?usp=drive_link)
+## About Me
 
+I build modern digital products combining clean UI/UX, scalable backend architectures, automation, and AI-powered solutions.
 
-```javascript
-const myStack = {
-  code: ["JavaScript", "HTML5", "CSS3", "TypeScript", "Python"],
-  technologies: [
-    {
-      frontEnd: {
-        javascript: ["React", "Next.js", "Redux", "GraphQL"],
-        css: ["Styled Components", "CSS Modules", "SASS", "Bootstrap"],
-      },
-    },
-    {
-      backEnd: {
-        javascript: ["NodeJS", "Express", "Sequelize", "Mongoose", "GraphQL"],
-      },
-      databases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
-    },
-    {
-      devOps: ["Docker", "GitLab", "GitHub", "CI/CD", "Linux"],
-    },
-    {
-      tools: {
-        testing: ["Postman", "RESTful APIs", "Web APIs"],
-        documentation: ["Confluence", "Figma"],
-      },
-    },
-  ],
-  currentStatus: ["✨Looking for a Job✨"],
-  locationPreferences: ["✨Global✨"],
-};
-```
+My focus is creating systems that are fast, functional, and production-ready — from SaaS platforms and custom dashboards to AI agents, infrastructure, and integrations.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/heredialucasfran/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/heredialucasfran/" height="30" width="40" /></a>
-</p>
+---
+
+## Tech Stack
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- TailwindCSS
+- Framer Motion
+
+### Backend
+- Node.js
+- Express
+- Python
+- REST APIs
+- Authentication Systems
+
+### Database & Infra
+- MongoDB
+- PostgreSQL
+- Docker
+- VPS / Linux
+- CI/CD
+
+### AI & Automation
+- OpenAI APIs
+- AI Agents
+- Workflow Automation
+- Custom AI Integrations
+- RAG Systems
+
+---
+
+## Featured Projects
+
+### SaaS Platforms
+Development of scalable SaaS systems with authentication, dashboards, subscriptions, APIs, and admin panels.
+
+### AI Integrations
+Custom AI solutions using OpenAI APIs, assistants, automations, and intelligent workflows.
+
+### E-commerce & Business Systems
+Custom systems for inventory, management, payments, analytics, and internal operations.
+
+### Landing Pages & Portfolios
+Modern, responsive, high-performance websites focused on branding and conversion.
+
+---
+
+## Current Focus
+
+- AI-powered applications
+- Automation systems
+- Scalable backend architecture
+- Modern frontend experiences
+- SaaS development
+
+---
+
+## Philosophy
+
+I care about:
+- Clean architecture
+- Performance
+- Scalability
+- Good UX
+- Real business value
+
+---
+
+## Portfolio
+
+Check my work here:
+
+👉 :contentReference[oaicite:1]{index=1}
+
+---
+
+## GitHub Stats
+
+```bash
+Building cool stuff...
