@@ -1,99 +1,111 @@
-# Lucas Heredia
+<div align="center">
 
-Full Stack Developer focused on scalable systems, AI integrations, automation, and modern web applications.
+# Lucas Heredia 👨‍💻
+### Full Stack Developer • AI Engineer • System Builder
 
-🌐 Portfolio: :contentReference[oaicite:0]{index=0}  
-💼 LinkedIn: [Tu LinkedIn]  
-📫 Contact: [Tu Email]
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+Modern+Digital+Products;AI+Integrations+%26+Automation;Scalable+Systems+%26+SaaS;Full+Stack+Developer+from+Argentina" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.hlucas.cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I build modern digital products combining clean UI/UX, scalable backend architectures, automation, and AI-powered solutions.
+I create modern digital systems that combine:
 
-My focus is creating systems that are fast, functional, and production-ready — from SaaS platforms and custom dashboards to AI agents, infrastructure, and integrations.
+- ⚡ Fast & scalable architectures
+- 🤖 AI integrations & automations
+- 🎨 Clean UI/UX experiences
+- 🧠 Smart backend engineering
+- 🔥 High-performance web applications
+
+From SaaS platforms and AI agents to internal business systems and modern web experiences.
 
 ---
 
-## Tech Stack
+# 🛠 Tech Arsenal
+
+<div align="center">
 
 ### Frontend
-- React
-- Next.js
-- TypeScript
-- TailwindCSS
-- Framer Motion
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css" />
 
-### Backend
-- Node.js
-- Express
-- Python
-- REST APIs
-- Authentication Systems
+### Backend & Infrastructure
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,docker,linux" />
 
-### Database & Infra
-- MongoDB
-- PostgreSQL
-- Docker
-- VPS / Linux
-- CI/CD
+### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,cloudflare" />
 
-### AI & Automation
-- OpenAI APIs
-- AI Agents
-- Workflow Automation
-- Custom AI Integrations
-- RAG Systems
+</div>
 
 ---
 
-## Featured Projects
+# 🧠 What I Build
 
-### SaaS Platforms
-Development of scalable SaaS systems with authentication, dashboards, subscriptions, APIs, and admin panels.
+### 🤖 AI Systems
+Custom AI integrations, assistants, automations, RAG systems, and intelligent workflows.
 
-### AI Integrations
-Custom AI solutions using OpenAI APIs, assistants, automations, and intelligent workflows.
+### 🏗 SaaS Platforms
+Authentication systems, dashboards, subscriptions, APIs, admin panels, and scalable architectures.
 
-### E-commerce & Business Systems
-Custom systems for inventory, management, payments, analytics, and internal operations.
+### ⚙ Business Systems
+Inventory management, internal operations, analytics, payment systems, and automation tools.
 
-### Landing Pages & Portfolios
-Modern, responsive, high-performance websites focused on branding and conversion.
-
----
-
-## Current Focus
-
-- AI-powered applications
-- Automation systems
-- Scalable backend architecture
-- Modern frontend experiences
-- SaaS development
+### 🎨 Modern Websites
+Landing pages, portfolios, and high-conversion web experiences with premium UI/UX.
 
 ---
 
-## Philosophy
+# ⚡ Current Focus
 
-I care about:
-- Clean architecture
-- Performance
-- Scalability
-- Good UX
-- Real business value
+```yaml
+Building:
+  - AI-powered applications
+  - Scalable backend systems
+  - Automation workflows
+  - Modern SaaS products
+  - High-performance interfaces
+
+Learning:
+  - Advanced AI orchestration
+  - Infrastructure scaling
+  - System architecture
+```
 
 ---
 
-## Portfolio
+# 📊 GitHub Activity
 
-Check my work here:
+<div align="center">
 
-👉 :contentReference[oaicite:1]{index=1}
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+
+</div>
 
 ---
 
-## GitHub Stats
+# 🌍 Portfolio
 
-```bash
-Building cool stuff...
+<div align="center">
+
+## 👉 https://www.hlucas.cloud
+
+Modern systems. Real solutions. Clean execution.
+
+</div>
+
+---
+
+<div align="center">
+
+### "I don't just build websites. I build systems."
+
+</div>
